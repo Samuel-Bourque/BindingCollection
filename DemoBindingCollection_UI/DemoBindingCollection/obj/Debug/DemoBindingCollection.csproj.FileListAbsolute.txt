@@ -1,0 +1,16 @@
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.csprojAssemblyReference.cache
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\MainWindow.g.cs
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\App.g.cs
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection_MarkupCompile.cache
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection_MarkupCompile.lref
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\bin\Debug\DemoBindingCollection.exe.config
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\bin\Debug\DemoBindingCollection.exe
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\bin\Debug\DemoBindingCollection.pdb
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\MainWindow.baml
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.g.resources
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.Properties.Resources.resources
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.csproj.GenerateResource.cache
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.csproj.CoreCompileInputs.cache
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.exe
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\DemoBindingCollection.pdb
+C:\Users\1232291\source\repos\DemoBindingCollection_UI\DemoBindingCollection\obj\Debug\GeneratedInternalTypeHelper.g.cs
